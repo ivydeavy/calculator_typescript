@@ -2,7 +2,7 @@
 ### Basic calculator using typescript and prompts node modules.
 > Prerequisites:
 ```
-1.npm i -g typescript
+1. npm i -g typescript
 ```
 > How to run
 ```
